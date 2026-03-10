@@ -32,5 +32,11 @@ Android 기반 냉장고 식재료 관리 애플리케이션
 - Google ML Kit OCR 기반 영수증 인식 기능 구현  
 - 바코드 스캔을 통한 식재료 자동 등록 기능
 
+### Popple
+Android 기반 팝업스토어 정보 제공 애플리케이션  
+- UI 디자인 기반 레이아웃, 스타일 등 XML 코드를 통해 구현
+- 채팅 메시지 db로 저장
+- 실시간 업데이트 채팅 기능 구현
+
 ## 📎 포트폴리오
 포트폴리오 : https://www.notion.so/PortFolio-2aafb70ac3388019b7c1fbd937bcbac8?source=copy_link
