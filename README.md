@@ -42,6 +42,7 @@ Flutter 기반 AI 감정 케어 애플리케이션 — 출시 목표
 #### 🔗 연동 프로젝트
 - [maeum](https://github.com/Hello11234567/Maeum)
 - [maeum-server](https://github.com/Hello11234567/maeum-server)
+
   
 ### MindLog
 Flutter 기반 AI 감정 관리 애플리케이션
@@ -53,6 +54,7 @@ Flutter 기반 AI 감정 관리 애플리케이션
 #### 🔗 연동 프로젝트
 - [MindLog](https://github.com/Hello11234567/MindLog)
 
+
 ### TodoFriends 🚧 개발중
 Android(Kotlin) 기반 AI 소셜 일정 관리 애플리케이션
 
@@ -61,6 +63,7 @@ Android(Kotlin) 기반 AI 소셜 일정 관리 애플리케이션
 - Jetpack Compose 기반 UI 구현 및 Figma 화면 설계
 #### 🔗 연동 프로젝트
 - [TodoFriends](https://github.com/Hello11234567/TodoFriends)
+
 
 ### GoRoute
 React Native 기반 외국인 대상 관광 길찾기 애플리케이션 — 졸업작품
@@ -71,11 +74,13 @@ React Native 기반 외국인 대상 관광 길찾기 애플리케이션 — 졸
 #### 🔗 연동 프로젝트
 - [GoRoute](https://github.com/Hello11234567/GoRoute)
 
+
 ### EcoBite
 Android 기반 냉장고 식재료 관리 애플리케이션
 
 - Google ML Kit OCR 기반 영수증 인식 기능 구현
 - 바코드 스캔을 통한 식재료 자동 등록 기능
+
 
 ### Popple 
 Android 기반 팝업스토어 정보 제공 애플리케이션 -캡스톤디자인 경진대회 우수상
@@ -84,6 +89,7 @@ Android 기반 팝업스토어 정보 제공 애플리케이션 -캡스톤디자
 - XML 기반 UI 레이아웃 및 스타일 구현
 #### 🔗 연동 프로젝트
 - [Popple](https://github.com/Hello11234567/popple-android-firebase)
+
 
 ## 📎 포트폴리오
 포트폴리오 : https://www.notion.so/PortFolio-2aafb70ac3388019b7c1fbd937bcbac8?source=copy_link
