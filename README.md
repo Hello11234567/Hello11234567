@@ -39,7 +39,7 @@ Flutter 기반 AI 감정 케어 애플리케이션 — 출시 목표
 - OpenAI API를 활용한 감정 상태 분석, 요약 및 개인화 케어 추천 기능
 - Spring Boot + MySQL 기반 백엔드 직접 설계 및 구현
 - 주간/월간 감정 통계 시각화 및 이전 기간 비교 기능
-# 🔗 연동 프로젝트
+#### 🔗 연동 프로젝트
 - [maeum](https://github.com/Hello11234567/Maeum)
 - [maeum-server](https://github.com/Hello11234567/maeum-server)
   
@@ -50,7 +50,7 @@ Flutter 기반 AI 감정 관리 애플리케이션
 - OpenAI GPT API를 활용한 감정 분석 및 케어 추천 기능 구현
 - Firebase Authentication / Firestore 기반 데이터 구조 설계 및 구현
 - 감정 통계 시각화 (주간/월간 레이더 차트) 기능 개발
-# 🔗 연동 프로젝트
+#### 🔗 연동 프로젝트
 - [MindLog](https://github.com/Hello11234567/MindLog)
 
 ### TodoFriends 🚧 개발중
@@ -59,7 +59,7 @@ Android(Kotlin) 기반 AI 소셜 일정 관리 애플리케이션
 - OpenAI API를 활용한 개인 및 팀 일정 추천 기능 구현
 - Spring Boot + MySQL 기반 REST API 서버 연동
 - Jetpack Compose 기반 UI 구현 및 Figma 화면 설계
-# 🔗 연동 프로젝트
+#### 🔗 연동 프로젝트
 - [TodoFriends](https://github.com/Hello11234567/TodoFriends)
 
 ### GoRoute
@@ -68,7 +68,7 @@ React Native 기반 외국인 대상 관광 길찾기 애플리케이션 — 졸
 - 독일 교환학생 경험을 바탕으로 외국인의 국내 여행 불편함을 해소하기 위해 기획
 - Naver Map API 기반 지도 및 위치 기능 구현
 - 관광지 정보 제공 및 다국어 사용자 인터페이스 개발
-# 🔗 연동 프로젝트
+#### 🔗 연동 프로젝트
 - [GoRoute](https://github.com/Hello11234567/GoRoute)
 
 ### EcoBite
@@ -82,7 +82,7 @@ Android 기반 팝업스토어 정보 제공 애플리케이션 -캡스톤디자
 
 - Firebase Realtime Database 기반 실시간 채팅 기능 구현
 - XML 기반 UI 레이아웃 및 스타일 구현
-# 🔗 연동 프로젝트
+#### 🔗 연동 프로젝트
 - [Popple](https://github.com/Hello11234567/popple-android-firebase)
 
 ## 📎 포트폴리오
