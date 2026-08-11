@@ -55,7 +55,7 @@ Flutter 기반 AI 감정 관리 애플리케이션
 - [MindLog](https://github.com/Hello11234567/MindLog)
 
 
-### TodoFriends 🚧 개발중
+### TodoFriends
 Android(Kotlin) 기반 AI 소셜 일정 관리 애플리케이션
 
 - OpenAI API를 활용한 개인 및 팀 일정 추천 기능 구현
