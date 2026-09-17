@@ -92,4 +92,4 @@ Android 기반 팝업스토어 정보 제공 애플리케이션 -캡스톤디자
 
 
 ## 📎 포트폴리오
-포트폴리오 : https://www.notion.so/PortFolio-2aafb70ac3388019b7c1fbd937bcbac8?source=copy_link
+포트폴리오 : https://www.notion.so/3b9fb70ac3388083a7f1f8bd26b223b9?source=copy_link
