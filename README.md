@@ -66,5 +66,6 @@ MindLog 프로젝트를 기반으로 일기 기능을 추가하고 통계 기능
 서비스 출시를 목표로 개발 중이며, 앱과 서버의 연동 및 기능별 검증을 진행하고 있습니다.<br/>
 🔗[FLutter GitHub Repository](https://github.com/Hello11234567/Maeum) [Server GitHub Repository](https://github.com/Hello11234567/maeum-server)
 
-## 📎 포트폴리오
-포트폴리오 : https://www.notion.so/3b9fb70ac3388083a7f1f8bd26b223b9?source=copy_link
+## 📎 Portfolio & Contact
+Portfolio : [김유정 포트폴리오](https://www.notion.so/3b9fb70ac3388083a7f1f8bd26b223b9?source=copy_link)<br/>
+E-MAIL: [김유정 이메일](koreair03@gmail.com)
