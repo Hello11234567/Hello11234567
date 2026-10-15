@@ -23,7 +23,7 @@ Android 네이티브 개발을 목표로 앱 개발 역량을 쌓고 있으며, 
 
 **Tools**
 - Git · GitHub
-- Android Studiod
+- Android Studio
 - Figma
 
 ## 💡 주요 프로젝트
@@ -64,7 +64,7 @@ MindLog 프로젝트를 기반으로 일기 기능을 추가하고 통계 기능
 - 감정 기록, AI 분석, 일기 및 통계 기능 확장
 
 서비스 출시를 목표로 개발 중이며, 앱과 서버의 연동 및 기능별 검증을 진행하고 있습니다.<br/>
-🔗[FLutter GitHub Repository](https://github.com/Hello11234567/Maeum) [Server GitHub Repository](https://github.com/Hello11234567/maeum-server)
+🔗[FLutter GitHub](https://github.com/Hello11234567/Maeum) [Server GitHub](https://github.com/Hello11234567/maeum-server)
 
 ## 📎 Portfolio & Contact
 Portfolio : [김유정 포트폴리오](https://www.notion.so/3b9fb70ac3388083a7f1f8bd26b223b9?source=copy_link)<br/>
