@@ -1,5 +1,5 @@
 # 안녕하세요, 김유정입니다!
-## 🚀 Android 네이티브 개발을 목표로 성장하는 모바일 앱 개발자
+### 🚀 Android 네이티브 개발을 목표로 성장하는 모바일 앱 개발자
 
 사용자의 일상에 실질적인 도움을 주는 모바일 애플리케이션을 개발합니다.
 
@@ -68,4 +68,4 @@ MindLog 프로젝트를 기반으로 일기 기능을 추가하고 통계 기능
 
 ## 📎 Portfolio & Contact
 Portfolio : [김유정 포트폴리오](https://www.notion.so/3b9fb70ac3388083a7f1f8bd26b223b9?source=copy_link)<br/>
-E-MAIL: [김유정 이메일](koreair03@gmail.com)
+EMAIL: koreair03@gmail.com
